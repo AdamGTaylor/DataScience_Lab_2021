@@ -1,4 +1,11 @@
-*data
+# Data dics that should be skipped
+*data/hdf-4
+*data/hdf4
+*data/hdf5
+*data/netCDF
+
+*data/links.txt
+
 
 *.d
 
